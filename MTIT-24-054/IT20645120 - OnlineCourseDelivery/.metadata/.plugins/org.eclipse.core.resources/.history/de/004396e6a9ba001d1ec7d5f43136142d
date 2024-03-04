@@ -1,0 +1,5 @@
+package coursedeliveryproducer;
+
+public interface CourseDelivery_Interface {
+
+}

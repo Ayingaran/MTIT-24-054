@@ -1,0 +1,5 @@
+package enroll_admin_service;
+
+public interface EnrollAdminService {
+
+}

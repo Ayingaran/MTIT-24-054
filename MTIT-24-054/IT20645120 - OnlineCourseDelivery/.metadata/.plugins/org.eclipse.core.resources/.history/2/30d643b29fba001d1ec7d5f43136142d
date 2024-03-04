@@ -1,0 +1,13 @@
+package coursedeliveryconsumer;
+import java.util.Scanner;
+
+public class CourseDeliveryService implements CourseDelivery_Interface {
+
+	@Override
+	public Object Course_Id() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

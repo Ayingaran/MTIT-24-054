@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Enroll_Admin_Service
+Bundle-SymbolicName: Enroll_Admin_Service
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: enroll_admin_service.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-19
+Automatic-Module-Name: Enroll.Admin.Service
+Import-Package: enrollment_delivery;resolution:=optional,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: enroll_admin_service

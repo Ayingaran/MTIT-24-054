@@ -1,0 +1,14 @@
+package enroll_admin_service;
+
+public class Enroll {
+
+	public Enroll() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

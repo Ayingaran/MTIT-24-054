@@ -1,0 +1,9 @@
+package coursedeliveryconsumer;
+
+public class CourseDeliveryService {
+
+	public CourseDeliveryService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

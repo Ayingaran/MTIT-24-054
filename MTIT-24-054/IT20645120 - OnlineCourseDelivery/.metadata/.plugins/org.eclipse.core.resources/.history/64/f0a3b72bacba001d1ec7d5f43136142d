@@ -1,0 +1,7 @@
+package coursedeliveryconsumer;
+
+public interface CourseDelivery_Interface {
+
+	Object Course_Id();
+
+}

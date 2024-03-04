@@ -1,0 +1,31 @@
+package enrollment_delivery;
+
+public class EnrollDeliveryServicelmpl<DeliveryDetails, CourseDeliveryDetails> implements Enrolldeliveryservice{
+
+	CourseDeliveryDetails student;
+	
+	public EnrollDeliveryServicelmpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean addStudentDetail(String name, String address) {
+		// TODO Auto-generated method stub
+		student=new CourseDeliveryDetails ();
+		student.setStudentName(name);
+		student.setStudentAddress(address);
+		return false;
+	}
+
+	@Override
+	public double calccourse_fees(double course_fees) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

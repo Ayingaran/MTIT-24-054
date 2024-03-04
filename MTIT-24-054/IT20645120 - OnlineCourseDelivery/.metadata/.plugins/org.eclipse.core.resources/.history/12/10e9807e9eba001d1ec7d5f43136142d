@@ -1,0 +1,5 @@
+package coursedeliveryconsumer;
+
+public interface CoursDelivery_Interface {
+
+}

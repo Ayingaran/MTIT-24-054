@@ -1,0 +1,9 @@
+package coursedeliveryproducer;
+
+public class CourseDelivery {
+
+	public CourseDelivery() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

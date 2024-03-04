@@ -1,0 +1,8 @@
+package enrollment_delivery;
+
+public interface Enrolldeliveryservice {
+	
+	public boolean addStudentDetail(String name,String address);
+	public  double calccourse_fees(double course_fees);
+
+}
